@@ -42,3 +42,7 @@ Screenshots aus dem Portal, aufgenommen am 08.10.2026, liegen daneben:
 - `Azure_Ressource_lymbe-ai_Germany-West-Central_2026-10-08.jpg` – Azure-Portal, Übersicht der Ressource: Standort Germany West Central
 - `Azure_Bereitstellungen_lymbe-ai_DataZone-EUR_2026-10-08.jpg` – Foundry, Bereitstellungen: alle drei mit Bereitstellungstyp „Datenzonenstandard (EUR)“
 - `Azure_Alle_Ressourcen_nur-lymbe-ai_2026-10-08.jpg` – Foundry, Alle Ressourcen (1): nur noch lymbe-ai
+
+## Nachtrag 13.10.2026 (A46, 08a B1)
+
+- `Azure_Ressource_lymbe-ai-sprache_Germany-West-Central_2026-10-13.jpg` – Azure-Portal, Übersicht der Speech-Ressource `lymbe-ai-sprache` (Speech-Dienst, Ressourcengruppe lymbe-ai): Standort **Germany West Central**, Status aktiv, Tarif Standard. Schlüssel verdeckt.

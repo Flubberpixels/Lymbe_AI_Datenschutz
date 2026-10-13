@@ -65,10 +65,10 @@ Hauptdokument: 05_Intern/5.9_Freigabeprotokoll_Vertrag_gleich_Maschine.md – je
 | Nr | Aufgabe | Quelle | Status |
 |---|---|---|---|
 | A42 | **Zuerst:** AVV-Text 1.7 (01_Kunden/1.1) und Datenschutzerklärung 1.6 (04_Oeffentlich/4.1) ins Portal übernehmen, Fassungsnummern setzen (AVV 1.7, DSE 1.6, AGB 1.4), Checkbox-Text 1.5 O mit „Fassung 1.7"; danach Dennis Bescheid geben (D18) | 1.1, 4.1, 1.0, 1.5 O | ☐ |
-| A43 | 5.9 A8: Benachrichtigungsziele und Verbinden von Diensten mit Zeit und Nutzer protokollieren (Audit-Log) – oder ⏳ mit Datum in 5.9 | 5.9 A8, AVV § 3 Abs. 1 | ☐ |
+| A43 | 5.9 A8: Benachrichtigungsziele und Verbinden von Diensten mit Zeit und Nutzer protokollieren (Audit-Log) – oder ⏳ mit Datum in 5.9 | 5.9 A8, AVV § 3 Abs. 1 | ✅ 13.10.2026 – live, Klicktest demo: verbunden + getrennt im Audit-Log |
 | A44 | 5.9 A18: Export im Portal um Dokumente (Original), Gedächtnis und Abläufe erweitern – oder ⏳ mit Datum in 5.9; sonst sagt Dennis Bescheid und § 8 Abs. 4 wird angepasst | 5.9 A18, AVV § 8 Abs. 4 | ☐ |
-| A45 | Verbinden-Dialog (1.5 I): Satz „‹Anbieter› ist nach dem EU-US Data Privacy Framework zertifiziert" korrigieren – zertifiziert ist der US-Rechtsträger (Google LLC, Microsoft Corporation, WhatsApp LLC, Meta Platforms Inc., Salesforce Inc.), nicht die irische Gesellschaft; Slack-Vertragspartner in der EU ist Slack Technologies Limited (Dublin) | 08c A12, 5.9 A21 | ☐ |
-| A46 | Screenshot der Speech-Ressource `lymbe-ai-sprache` (Region) in 03_Dienstleister/Microsoft_Azure ablegen | 08a B1 | ☐ |
+| A45 | Verbinden-Dialog (1.5 I): Satz „‹Anbieter› ist nach dem EU-US Data Privacy Framework zertifiziert" korrigieren – zertifiziert ist der US-Rechtsträger (Google LLC, Microsoft Corporation, WhatsApp LLC, Meta Platforms Inc., Salesforce Inc.), nicht die irische Gesellschaft; Slack-Vertragspartner in der EU ist Slack Technologies Limited (Dublin) | 08c A12, 5.9 A21 | ✅ 13.10.2026 – live im Portal und im Ablauf-Baukasten |
+| A46 | Screenshot der Speech-Ressource `lymbe-ai-sprache` (Region) in 03_Dienstleister/Microsoft_Azure ablegen | 08a B1 | ✅ 13.10.2026 – `Microsoft_Azure/Azure_Ressource_lymbe-ai-sprache_Germany-West-Central_2026-10-13.jpg`, Standort Germany West Central |
 | A47 | Unterschriftstermin (07_Unterschreiben_Final): Partnerschaftsvertrag Fassung 2, 5.3, AVV Anlage 5, 5.9 Abnahme Block A–C, 5.16 Lauf; Vertrauensperson für Anlage 2 | 07_Unterschreiben_Final | ☐ |
 | A48 | Reste vom 08.10.: zwei alte Server-Snapshots vom April löschen (A28); `sudo usermod -aG systemd-journal lymbe` für die SSH-Anmeldezeilen (A11); WhatsApp-Erstnachricht in einem echten Chat testen (A9); 5.16 Lauf vom 06.10. unterschreiben (A22) | 5.9, 5.16 | ☐ |
 | A49 | 2FA-Bestätigung je Konto: Hetzner, GitHub, STACKIT, Azure, OpenAI, Stripe, Meta (Checkliste Nr. 4); alle Zugänge mit Präfix „Lymbe – " im Tresor prüfen (A39) | Abschnitt 6 | ☐ |
@@ -80,8 +80,8 @@ Hauptdokument: 05_Intern/5.9_Freigabeprotokoll_Vertrag_gleich_Maschine.md – je
 |---|---|---|---|
 | A38 | Drei Downloads im Portal unter „Datenschutz" für jeden Kunden: 1.3 Textbaustein Datenschutzerklärung, 1.6 Information der Beschäftigten, 1.7 Plattformbeschreibung und Kurz-DSFA (ohne Abschnitt 5); dazu ein Satz in der Willkommens-Mail | 1.3, 1.6, 1.7 | ☐ |
 | A41 | Audit-Export im Portal, Portal-TOTP, Dienst-Hinweis für alle Bausteine (Checkliste Nr. 5) | 07b Abschnitt 5, 8 | ☐ |
-| A51 | 5.8 W2: sessionStorage-Marker der proaktiven Ansprache erst nach Nutzerhandlung setzen | 5.8 | ☐ |
-| A52 | Live-Chat-Kanäle mit Mandanten-Präfix (A30, bewusst später) | 5.9 A16 | ☐ |
+| A51 | 5.8 W2: sessionStorage-Marker der proaktiven Ansprache erst nach Nutzerhandlung setzen | 5.8 | ✅ 13.10.2026 – live, Marker erst nach Wegklicken/Öffnen (auch Auto-Open) |
+| A52 | Live-Chat-Kanäle mit Mandanten-Präfix (A30, bewusst später) | 5.9 A16 | ✅ 13.10.2026 – live, Kanal live:<Workspace>:conversation:<id>, zentral für Support/Postfächer |
 
 Später (P2): Lead-Benachrichtigung nur an dienstliche Postfächer prüfbar machen · Hilfeseiten-Logo serverseitig spiegeln · Dienstleisterverzeichnis korrigieren (Azure Speech, Wächter, Stripe-Cookies, Kontoinhaber) · Export-Funktion für Art.-30-Angaben je Kunde · Rollen-/Rechtekonzept Portal · Löschung einer Person über alle Speicher als Ablauf · Zertifikate der Cloud-Anbieter ablegen · Allgemeiner Namensfilter im Suchbegriff-Generator (06.10. bewusst weggelassen).
 
