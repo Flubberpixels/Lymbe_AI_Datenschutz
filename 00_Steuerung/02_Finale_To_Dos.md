@@ -79,7 +79,7 @@ Hauptdokument: 05_Intern/5.9_Freigabeprotokoll_Vertrag_gleich_Maschine.md – je
 | Nr | Aufgabe | Quelle | Status |
 |---|---|---|---|
 | A38 | Drei Downloads im Portal unter „Datenschutz" für jeden Kunden: 1.3 Textbaustein Datenschutzerklärung, 1.6 Information der Beschäftigten, 1.7 Plattformbeschreibung und Kurz-DSFA (ohne Abschnitt 5); dazu ein Satz in der Willkommens-Mail | 1.3, 1.6, 1.7 | ✅ 13.10.2026 – live unter Einstellungen → Datenschutz als Word (1.7 ohne Abschnitt 5), Satz in der Willkommens-Mail |
-| A41 | Audit-Export im Portal, Portal-TOTP, Dienst-Hinweis für alle Bausteine (Checkliste Nr. 5) | 07b Abschnitt 5, 8 | ✅ 13.10.2026 – Audit-Export: Support-Zugriffe als CSV unter Einstellungen → Datenschutz und im Admin; Portal-TOTP unter Konto → Sicherheit; Dienst-Hinweis für jeden Baustein seit 08.10. Offen zur Klärung: ob 5.9 TOTP-Pflicht für bestimmte Rollen meint. |
+| A41 | Audit-Export im Portal, Portal-TOTP, Dienst-Hinweis für alle Bausteine (Checkliste Nr. 5) | 07b Abschnitt 5, 8 | ✅ 13.10.2026 – Audit-Export: Support-Zugriffe als CSV unter Einstellungen → Datenschutz und im Admin; Portal-TOTP unter Konto → Sicherheit; Dienst-Hinweis für jeden Baustein seit 08.10. TOTP bleibt freiwillig, laut Christian am 13.10. ausreichend. |
 | A51 | 5.8 W2: sessionStorage-Marker der proaktiven Ansprache erst nach Nutzerhandlung setzen | 5.8 | ✅ 13.10.2026 – live, Marker erst nach Wegklicken/Öffnen (auch Auto-Open) |
 | A52 | Live-Chat-Kanäle mit Mandanten-Präfix (A30, bewusst später) | 5.9 A16 | ✅ 13.10.2026 – live, Kanal live:<Workspace>:conversation:<id>, zentral für Support/Postfächer |
 
