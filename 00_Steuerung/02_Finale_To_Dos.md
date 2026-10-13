@@ -72,7 +72,7 @@ Hauptdokument: 05_Intern/5.9_Freigabeprotokoll_Vertrag_gleich_Maschine.md – je
 | A47 | Unterschriftstermin (07_Unterschreiben_Final): Partnerschaftsvertrag Fassung 2, 5.3, AVV Anlage 5, 5.9 Abnahme Block A–C, 5.16 Lauf; Vertrauensperson für Anlage 2 | 07_Unterschreiben_Final | ☐ |
 | A48 | Reste vom 08.10.: zwei alte Server-Snapshots vom April löschen (A28); `sudo usermod -aG systemd-journal lymbe` für die SSH-Anmeldezeilen (A11); WhatsApp-Erstnachricht in einem echten Chat testen (A9); 5.16 Lauf vom 06.10. unterschreiben (A22) | 5.9, 5.16 | ✅ 13.10.2026 – laut Chris erledigt |
 | A49 | 2FA-Bestätigung je Konto: Hetzner, GitHub, STACKIT, Azure, OpenAI, Stripe, Meta (Checkliste Nr. 4); alle Zugänge mit Präfix „Lymbe – " im Tresor prüfen (A39) | Abschnitt 6 | ✅ 13.10.2026 – laut Chris erledigt |
-| A50 | Vorfall-Register 5.12 Eintrag 2026-01 (Löschlauf 05.–08.10.) gegenlesen | 5.12 | ☐ |
+| A50 | Vorfall-Register 5.12 Eintrag 2026-01 (Löschlauf 05.–08.10.) gegenlesen | 5.12 | ✅ 13.10.2026 – gegengelesen, Meldeweg und Ursache präzisiert |
 
 ### Nach dem Livegang
 
