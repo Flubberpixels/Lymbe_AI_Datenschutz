@@ -1,6 +1,6 @@
 # Finale To-dos – Lymbe AI Datenschutz
 
-**Flubber Pixels UG · Stand 11.10.2026 · Livegang war 08.10.2026 · Ein Dokument für Status, Aufgaben (Dennis, Christian, Kundin, Anwalt), Zugangsliste und Sicherheits-Checkliste · Erledigtes wird abgehakt, nicht gelöscht · Ersetzt die Notion-Liste vom 08.10.2026 und die Stände „05.10" und „chris" – es gibt nur noch diesen Ordner**
+**Flubber Pixels UG · Stand 13.10.2026 · Livegang war 08.10.2026 · Ein Dokument für Status, Aufgaben (Dennis, Christian, Kundin, Anwalt), Zugangsliste und Sicherheits-Checkliste · Erledigtes wird abgehakt, nicht gelöscht · Ersetzt die Notion-Liste vom 08.10.2026 und die Stände „05.10" und „chris" – es gibt nur noch diesen Ordner**
 
 ## 1. Stand
 
@@ -64,7 +64,7 @@ Hauptdokument: 05_Intern/5.9_Freigabeprotokoll_Vertrag_gleich_Maschine.md – je
 
 | Nr | Aufgabe | Quelle | Status |
 |---|---|---|---|
-| A42 | **Zuerst:** AVV-Text 1.7 (01_Kunden/1.1) und Datenschutzerklärung 1.6 (04_Oeffentlich/4.1) ins Portal übernehmen, Fassungsnummern setzen (AVV 1.7, DSE 1.6, AGB 1.4), Checkbox-Text 1.5 O mit „Fassung 1.7"; danach Dennis Bescheid geben (D18) | 1.1, 4.1, 1.0, 1.5 O | ☐ |
+| A42 | **Zuerst:** AVV-Text 1.7 (01_Kunden/1.1) und Datenschutzerklärung 1.6 (04_Oeffentlich/4.1) ins Portal übernehmen, Fassungsnummern setzen (AVV 1.7, DSE 1.6, AGB 1.4), Checkbox-Text 1.5 O mit „Fassung 1.7"; danach Dennis Bescheid geben (D18) | 1.1, 4.1, 1.0, 1.5 O | ☐ – Nachtrag von Christian vom 13.10. (06_Pruefungen/11_Nachtrag_AGB_1.4_DSE_1.6_2026-10-13.md) am 13.10. in AGB 1.4 (§ 5 Abs. 5 Zusatzpakete) und DSE 1.6 (Abschnitt 2 Team-Mitglieder, Abschnitt 11 Audit-Protokoll 2 Jahre, Gespräche kürzer einstellbar/geplante Aufgabe) eingesetzt; Fassungsnummern bleiben. Christian übernimmt die Dateien wortgleich ins Portal. |
 | A43 | 5.9 A8: Benachrichtigungsziele und Verbinden von Diensten mit Zeit und Nutzer protokollieren (Audit-Log) – oder ⏳ mit Datum in 5.9 | 5.9 A8, AVV § 3 Abs. 1 | ✅ 13.10.2026 – live, Klicktest demo: verbunden + getrennt im Audit-Log |
 | A44 | 5.9 A18: Export im Portal um Dokumente (Original), Gedächtnis und Abläufe erweitern – oder ⏳ mit Datum in 5.9; sonst sagt Dennis Bescheid und § 8 Abs. 4 wird angepasst | 5.9 A18, AVV § 8 Abs. 4 | ✅ 13.10.2026 – live: Export ist ein ZIP mit export.json und den Dokumenten im Original; Gedächtnis (Fragen/Antworten, gelesene Abschnitte) und Abläufe (Bauplan der jüngsten Fassung + Zuordnung) enthalten; persönliches Gedächtnis und interne Chats bewusst nicht (Beschäftigtendaten). Klicktest demo 13.10. |
 | A45 | Verbinden-Dialog (1.5 I): Satz „‹Anbieter› ist nach dem EU-US Data Privacy Framework zertifiziert" korrigieren – zertifiziert ist der US-Rechtsträger (Google LLC, Microsoft Corporation, WhatsApp LLC, Meta Platforms Inc., Salesforce Inc.), nicht die irische Gesellschaft; Slack-Vertragspartner in der EU ist Slack Technologies Limited (Dublin) | 08c A12, 5.9 A21 | ✅ 13.10.2026 – live im Portal und im Ablauf-Baukasten |
