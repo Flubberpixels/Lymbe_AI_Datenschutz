@@ -1,6 +1,6 @@
 # Partnerschaftsvertrag Lymbe AI
 
-**zwischen der Flubber Pixels UG (haftungsbeschränkt) und 26lab.io · Fassung 2 · Stand 11. Oktober 2026**
+**zwischen der Flubber Pixels UG (haftungsbeschränkt) und 26lab.io · Fassung 2 · Stand 14. Oktober 2026**
 
 ## Vertragsparteien
 
@@ -33,19 +33,19 @@ Flubber und 26lab haben gemeinsam die KI-Plattform „Lymbe AI" entwickelt und b
 
 (3) Beide Partner erbringen ihre Beiträge ohne gesondertes Entgelt, solange nichts anderes vereinbart ist (§ 5). Jeder Partner trägt seine eigenen Arbeitsmittel und Reisekosten selbst.
 
-(4) Alle Rechte an Arbeitsergebnissen, die ein Partner für Lymbe schafft – Code, Texte, Designs, Dokumente, Marken –, stehen im Innenverhältnis beiden Partnern je zur Hälfte zu; Inhaber nach außen ist Flubber, die sie nach § 3 Abs. 2 für die Partnerschaft hält. Soweit Urheberrechte bei Christian oder Dennis persönlich bleiben müssen, wird Flubber für die Partnerschaft ein ausschließliches, zeitlich und räumlich unbeschränktes, übertragbares Nutzungsrecht eingeräumt, das Betrieb, Änderung, Weiterentwicklung durch Dritte und die Übertragung auf die künftige Gesellschaft (§ 10) umfasst. Open-Source-Bestandteile (insbesondere der Ablauf-Kern als Fork von Activepieces) unterliegen ihren Lizenzen.
+(4) Rechte an Arbeitsergebnissen, die ein Partner für Lymbe schafft – Code, Texte, Designs, Dokumente –, verbleiben bei diesem Partner bzw. bei seiner handelnden Person. Der Partner räumt Flubber für die Partnerschaft ein ausschließliches, zeitlich und räumlich unbeschränktes Nutzungsrecht ein, das Betrieb, Änderung und Weiterentwicklung, auch durch Dritte, umfasst und nur auf die künftige Gesellschaft (§ 10) übertragbar ist. Bei Gründung der Gesellschaft übertragen beide Partner ihre Rechte auf diese (§ 10 Abs. 3). Das Nutzungsrecht an den Rechten von 26lab fällt an 26lab zurück, wenn über das Vermögen von Flubber ein Insolvenzverfahren eröffnet oder mangels Masse abgelehnt wird, wenn der Anteil von Flubber nach § 8 oder § 9 auf 26lab übergeht oder wenn Flubber gegen § 3 Abs. 5 verstößt; für die Rechte von Flubber gilt das entsprechend. Open-Source-Bestandteile (insbesondere der Ablauf-Kern als Fork von Activepieces) unterliegen ihren Lizenzen.
 
 ## § 3 Außenauftritt und Abrechnung über Flubber
 
 (1) Flubber bietet Lymbe AI unter eigenem Namen an, schließt die Verträge mit Kunden, Dienstleistern und Anbietern, stellt Rechnungen, vereinnahmt die Erlöse und ist gegenüber Kunden Auftragsverarbeiter nach Art. 28 DSGVO.
 
-(2) Alles, was Flubber für Lymbe hält oder erwirbt – Verträge, Konten, Domains, Marken, Erlöse, Daten, Rechte –, hält Flubber **für die Partnerschaft**, also für sich und 26lab je zur Hälfte. Flubber verfügt darüber nur nach den gemeinsamen Beschlüssen der Partner (§ 6) und überträgt diese Werte bei Gründung der eigenen Gesellschaft (§ 10) auf diese.
+(2) Alles, was Flubber für Lymbe hält oder erwirbt – Verträge, Konten, Domains, Marken, Erlöse, Daten, Rechte, soweit nicht § 2 Abs. 4 etwas anderes bestimmt –, hält Flubber **für die Partnerschaft**, also für sich und 26lab je zur Hälfte. Flubber verfügt darüber nur nach den gemeinsamen Beschlüssen der Partner (§ 6) und überträgt diese Werte bei Gründung der eigenen Gesellschaft (§ 10) auf diese.
 
 (3) Flubber führt die Erlöse und Kosten von Lymbe getrennt von ihrem übrigen Geschäft (eigenes Konto oder eigene Kostenstelle) und legt 26lab monatlich eine Abrechnung mit Belegen vor. 26lab hat jederzeit Einsicht in alle Lymbe betreffenden Unterlagen, Konten und Verträge.
 
 (4) Nachgewiesene Auslagen von Flubber für Lymbe (Steuerberatung für die Lymbe-Abrechnung, Zahlungsgebühren, Versicherung, Rechtsberatung) sind Kosten von Lymbe nach § 4 Abs. 1. Eine darüber hinausgehende Vergütung für Außenauftritt und Abrechnung erhält Flubber nicht.
 
-(5) Flubber darf Lymbe nicht ohne Zustimmung von 26lab verändern, belasten, übertragen, einstellen oder Verträge über Lymbe mit Dritten schließen, die über den laufenden Betrieb hinausgehen. Gesellschafterwechsel oder Geschäftsführerwechsel bei Flubber sowie ein Wechsel der Rechtsform von 26lab berühren diesen Vertrag nicht; Flubber stellt sicher, dass Dennis seine Vollmacht für Lymbe behält, solange er für Flubber tätig ist.
+(5) Flubber darf Lymbe nicht ohne Zustimmung von 26lab verändern, belasten, übertragen, einstellen oder Verträge über Lymbe mit Dritten schließen, die über den laufenden Betrieb hinausgehen. Gesellschafterwechsel oder Geschäftsführerwechsel bei Flubber sowie ein Wechsel der Rechtsform von 26lab berühren diesen Vertrag nicht; Flubber stellt sicher, dass Dennis seine Vollmacht für Lymbe behält, solange er für Flubber tätig ist. Flubber stimmt schon jetzt zu, dass 26lab seine Stellung aus diesem Vertrag mit allen Rechten und Pflichten auf eine von Christian beherrschte UG (haftungsbeschränkt) oder GmbH überträgt; Christian bleibt die handelnde Person, 26lab teilt die Übertragung in Textform mit.
 
 ## § 4 Erlöse, Kosten, Gewinn
 
@@ -99,13 +99,13 @@ Flubber und 26lab haben gemeinsam die KI-Plattform „Lymbe AI" entwickelt und b
 - fällt Dennis dauerhaft aus, geht der Anteil von Flubber auf 26lab über. Scheidet Dennis aus Flubber aus, ohne dauerhaft auszufallen, benennt Flubber innerhalb von drei Monaten eine neue handelnde Person, der 26lab zustimmt; geschieht das nicht, gilt der Anteil von Flubber als auf 26lab übergegangen.
 Der übernehmende Partner führt Lymbe allein weiter oder entscheidet allein über Verkauf oder Einstellung.
 
-(2) Der ausscheidende Partner bzw. dessen Rechtsnachfolger oder Erben erhalten eine Abfindung in Höhe des **auf den Anteil entfallenden Gewinns der letzten zwölf Monate** vor dem Ausscheiden, mindestens jedoch 5.000 €, höchstens 50.000 €. Die Abfindung ist in zwölf gleichen Monatsraten ab dem dritten Monat nach dem Ausscheiden zu zahlen; der übernehmende Partner darf vorzeitig zahlen. Darüber hinausgehende Ansprüche an Lymbe bestehen nicht; Erben erhalten keinen Zugang zu Lymbe, Code oder Kundendaten.
+(2) Der ausscheidende Partner bzw. dessen Rechtsnachfolger oder Erben erhalten eine Abfindung in Höhe **der Hälfte des Verkehrswerts von Lymbe** zum Zeitpunkt des Ausscheidens, mindestens jedoch 5.000 €. Einigen sich die Beteiligten nicht innerhalb von zwei Monaten über den Wert, bestimmt ihn ein gemeinsam benannter Sachverständiger verbindlich; kommt keine Benennung zustande, benennt ihn die IHK Düsseldorf. Die Kosten trägt Lymbe. Die Abfindung ist in 24 gleichen Monatsraten ab dem dritten Monat nach dem Ausscheiden zu zahlen; der übernehmende Partner darf vorzeitig zahlen. Darüber hinausgehende Ansprüche an Lymbe bestehen nicht; Erben erhalten keinen Zugang zu Lymbe, Code oder Kundendaten.
 
 (3) Geht der Anteil von Flubber auf 26lab über, überträgt Flubber alle für Lymbe gehaltenen Werte (§ 3 Abs. 2) auf 26lab oder eine von 26lab benannte Gesellschaft und wirkt an der Übertragung der Kundenverträge mit; bis dahin führt Flubber die Verträge für 26lab weiter. 26lab stellt Flubber ab dem Übergang von allen Pflichten aus Lymbe frei. Geht der Anteil von 26lab auf Flubber über, übergibt 26lab Code, Zugänge, Infrastruktur und Dokumentation vollständig an Flubber; § 19 Abs. 3 gilt.
 
 (4) 26lab stellt sicher, dass Erben und Rechtsnachfolger über diese Regelung informiert sind und sie in einer letztwilligen Verfügung berücksichtigt wird; Flubber stellt dasselbe für den Fall eines Gesellschafter- oder Geschäftsführerwechsels sicher. Die Vertrauenspersonen nach § 7 Abs. 4 sind angewiesen, dem übernehmenden Partner im Todesfall unverzüglich alle Zugänge zu übergeben.
 
-(5) Wird Lymbe innerhalb von 24 Monaten nach dem Übergang verkauft, erhält der ausgeschiedene Partner bzw. erhalten die Erben zusätzlich die Hälfte des Verkaufserlöses, der auf den übergegangenen Anteil entfällt, abzüglich der bereits gezahlten Abfindung.
+(5) Wird Lymbe innerhalb von 24 Monaten nach dem Übergang verkauft, erhält der ausgeschiedene Partner bzw. erhalten die Erben zusätzlich die Hälfte des Verkaufserlöses, der auf den übergegangenen Anteil entfällt, abzüglich der Abfindung.
 
 ## § 9 Freiwilliges Ausscheiden, Kündigung
 
@@ -151,7 +151,7 @@ Der übernehmende Partner führt Lymbe allein weiter oder entscheidet allein üb
 
 (1) **Vertrag = Maschine.** Keine Vertragsfassung wird freigeschaltet, bevor 26lab das Freigabeprotokoll bestätigt hat. Keine technische Änderung, die eine Vertragszusage berührt, wird umgesetzt, bevor Dennis sie freigegeben hat.
 
-(2) **Meldung vor Umsetzung.** 26lab meldet in Textform vor der Umsetzung: neue oder gewechselte Anbieter, neue Datenwege nach außen, Änderungen an Löschfristen, Sicherungen, Verschlüsselung, Standorten, Konfigurationsschaltern mit Außenwirkung. Dennis antwortet innerhalb von fünf Werktagen; ohne Antwort gilt die Änderung als nicht freigegeben.
+(2) **Meldung vor Umsetzung.** 26lab meldet in Textform vor der Umsetzung: neue oder gewechselte Anbieter, neue Datenwege nach außen, Änderungen an Löschfristen, Sicherungen, Verschlüsselung, Standorten, Konfigurationsschaltern mit Außenwirkung. Dennis antwortet innerhalb von fünf Werktagen. Ohne Antwort gilt die Änderung als freigegeben, wenn sie das Schutzniveau nicht senkt und keine Zusage gegenüber Kunden berührt (insbesondere Sicherheits-Updates, Fehlerbehebungen, Versionswechsel beim selben Anbieter am selben Standort). Andere Änderungen gelten ohne Antwort als nicht freigegeben; 26lab erinnert dann in Textform, und bleibt eine Antwort weitere fünf Werktage aus, gilt § 6 Abs. 3. § 6 Abs. 3 Satz 3 bleibt unberührt.
 
 (3) **Dokumentation.** 26lab aktualisiert das Dienstleisterverzeichnis vierteljährlich und bei jeder Änderung nach Abs. 2; Dennis archiviert jede Fassung mit Datum, führt den Projektplan Datenschutz und das Verzeichnis der Vertragsfassungen.
 

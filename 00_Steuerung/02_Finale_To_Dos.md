@@ -16,7 +16,7 @@ Dokumente auf Stand 11.10.2026: Kunden-AVV **1.7**, AGB **1.4**, Datenschutzerkl
 |---|---|
 | 00_Steuerung | Projektplan, Inhaltsverzeichnis, diese To-do-Liste |
 | 01_Kunden | 1.0 AGB 1.4 · 1.1 AVV 1.7 mit § 12, Unterschriftsseite, Anlagen 1–5 · 1.3 Textbaustein Datenschutzerklärung 1.1 · 1.4 Änderungsmitteilung · 1.5 Widget-/Kanal-Texte 1.1 · 1.6 Beschäftigteninformation 1.1 · 1.7 Plattformbeschreibung + Kurz-DSFA |
-| 02_26lab | 2.1 Partnerschaftsvertrag Flubber Pixels UG ↔ 26lab.io, Fassung 2 vom 11.10.2026 (ersetzt die am 08.10. unterschriebene Fassung; Unterschrift D15) |
+| 02_26lab | 2.1 Partnerschaftsvertrag Flubber Pixels UG ↔ 26lab.io, Fassung 2 vom 14.10.2026 (ersetzt die am 08.10. unterschriebene Fassung; Unterschrift D15) |
 | 03_Dienstleister | 3.1 Checkliste mit Prüfprotokoll D; Unterordner Hetzner, STACKIT, Microsoft_Azure, OpenAI mit Verträgen und Belegen |
 | 04_Oeffentlich | 4.1 Datenschutzerklärung 1.6 |
 | 05_Intern | 5.1 Verarbeitungsverzeichnis 1.1 · 5.2 DSFA-Vorprüfung · 5.3 Vertraulichkeit · 5.6 Vorfall · 5.7 Betroffene · 5.8 TDDDG · 5.9 Freigabeprotokoll · 5.10 Rollen · 5.11 DSB · 5.12–5.17 Register und Testprotokolle (5.16 Lauf vom 06.10.) |

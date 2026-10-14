@@ -86,7 +86,7 @@ Ausfüllen: Spalte „Stand" = ✅ läuft / ❌ läuft nicht / ⏳ bis [Datum] �
 | Vertraulichkeitsverpflichtung (5.3) | Dennis (Flubber Pixels UG) | | |
 | Verpflichtungserklärung § 203 StGB (AVV Anlage 5), belehrt durch Marion Schagen | Christian Gudermann | | |
 | Verpflichtungserklärung § 203 StGB (AVV Anlage 5), belehrt durch Marion Schagen | Dennis (Flubber Pixels UG) | | |
-| Partnerschaftsvertrag Lymbe (2.1), Fassung 2 vom 11.10.2026 (ersetzt die Unterschrift vom 08.10.2026) | Marion Schagen (Flubber), Christian Gudermann (26lab.io); Dennis als Bevollmächtigter | | |
+| Partnerschaftsvertrag Lymbe (2.1), Fassung 2 vom 14.10.2026 (ersetzt die Unterschrift vom 08.10.2026) | Marion Schagen (Flubber), Christian Gudermann (26lab.io); Dennis als Bevollmächtigter | | |
 | Testprotokoll Suchbegriff-Generator (5.16), Lauf 06.10.2026 | Christian Gudermann; Gegenzeichnung Dennis | | |
 
 ---
