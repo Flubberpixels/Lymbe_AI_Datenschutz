@@ -1,6 +1,6 @@
 # Finale To-dos – Lymbe AI Datenschutz
 
-**Flubber Pixels UG · Stand 13.10.2026 · Livegang war 08.10.2026 · Ein Dokument für Status, Aufgaben (Dennis, Christian, Kundin, Anwalt), Zugangsliste und Sicherheits-Checkliste · Erledigtes wird abgehakt, nicht gelöscht · Ersetzt die Notion-Liste vom 08.10.2026 und die Stände „05.10" und „chris" – es gibt nur noch diesen Ordner**
+**Flubber Pixels UG · Stand 17.10.2026 · Livegang war 08.10.2026 · Ein Dokument für Status, Aufgaben (Dennis, Christian, Kundin, Anwalt), Zugangsliste und Sicherheits-Checkliste · Erledigtes wird abgehakt, nicht gelöscht · Ersetzt die Notion-Liste vom 08.10.2026 und die Stände „05.10" und „chris" – es gibt nur noch diesen Ordner**
 
 ## 1. Stand
 
@@ -69,7 +69,7 @@ Hauptdokument: 05_Intern/5.9_Freigabeprotokoll_Vertrag_gleich_Maschine.md – je
 | A44 | 5.9 A18: Export im Portal um Dokumente (Original), Gedächtnis und Abläufe erweitern – oder ⏳ mit Datum in 5.9; sonst sagt Dennis Bescheid und § 8 Abs. 4 wird angepasst | 5.9 A18, AVV § 8 Abs. 4 | ✅ 13.10.2026 – live: Export ist ein ZIP mit export.json und den Dokumenten im Original; Gedächtnis (Fragen/Antworten, gelesene Abschnitte) und Abläufe (Bauplan der jüngsten Fassung + Zuordnung) enthalten; persönliches Gedächtnis und interne Chats bewusst nicht (Beschäftigtendaten). Klicktest demo 13.10. |
 | A45 | Verbinden-Dialog (1.5 I): Satz „‹Anbieter› ist nach dem EU-US Data Privacy Framework zertifiziert" korrigieren – zertifiziert ist der US-Rechtsträger (Google LLC, Microsoft Corporation, WhatsApp LLC, Meta Platforms Inc., Salesforce Inc.), nicht die irische Gesellschaft; Slack-Vertragspartner in der EU ist Slack Technologies Limited (Dublin) | 08c A12, 5.9 A21 | ✅ 13.10.2026 – live im Portal und im Ablauf-Baukasten |
 | A46 | Screenshot der Speech-Ressource `lymbe-ai-sprache` (Region) in 03_Dienstleister/Microsoft_Azure ablegen | 08a B1 | ✅ 13.10.2026 – `Microsoft_Azure/Azure_Ressource_lymbe-ai-sprache_Germany-West-Central_2026-10-13.jpg`, Standort Germany West Central |
-| A47 | Unterschriftstermin (07_Unterschreiben_Final): Partnerschaftsvertrag Fassung 2, 5.3, AVV Anlage 5, 5.9 Abnahme Block A–C, 5.16 Lauf; Vertrauensperson für Anlage 2 | 07_Unterschreiben_Final | ☐ |
+| A47 | Unterschriftstermin (07_Unterschreiben_Final): Partnerschaftsvertrag Fassung 2, 5.3, AVV Anlage 5, 5.9 Abnahme Block A–C, 5.16 Lauf; Vertrauensperson für Anlage 2 | 07_Unterschreiben_Final | ☐ – Fassung 2: 26lab-Wünsche vom 14.10. (2.2), Antwort Flubber vom 17.10. (2.3: Punkt 2 und 4 ja, 3 mit 36 Raten, 1 ohne Rükfall bei Verstoß, § 8 Abs. 1 Eintritt Dennis, Unterschriftszeile Christian). Vorher Anlage 1 prüfen: Hetzner ✅, Flubber-Konten ✅, GitHub-Organisation mit beiden als Owner ☐, Tresor ☐ |
 | A48 | Reste vom 08.10.: zwei alte Server-Snapshots vom April löschen (A28); `sudo usermod -aG systemd-journal lymbe` für die SSH-Anmeldezeilen (A11); WhatsApp-Erstnachricht in einem echten Chat testen (A9); 5.16 Lauf vom 06.10. unterschreiben (A22) | 5.9, 5.16 | ✅ 13.10.2026 – laut Chris erledigt |
 | A49 | 2FA-Bestätigung je Konto: Hetzner, GitHub, STACKIT, Azure, OpenAI, Stripe, Meta (Checkliste Nr. 4); alle Zugänge mit Präfix „Lymbe – " im Tresor prüfen (A39) | Abschnitt 6 | ✅ 13.10.2026 – laut Chris erledigt |
 | A50 | Vorfall-Register 5.12 Eintrag 2026-01 (Löschlauf 05.–08.10.) gegenlesen | 5.12 | ✅ 13.10.2026 – gegengelesen, Meldeweg und Ursache präzisiert |
@@ -155,6 +155,7 @@ Entfallen: K5 (in K2 und D19).
 | J44 | Genügt die allgemeine vertragliche Vertraulichkeitsverpflichtung der Dienstleister (STACKIT Ziff. 5, Hetzner § 5 Nr. 2, Microsoft DPA S. 22) als „Verpflichtung zur Geheimhaltung" nach § 203 Abs. 4 Satz 2 Nr. 2 StGB für die Kette Kunde → Flubber → 26lab → Dienstleister? (präzisiert J2) | 3.1 D, 5.14, 08a C1 |
 | J45 | Berichtigung von Anlage 1/Anlage 2 des AVV nach Vertragsschluss (Verschlüsselung, Speicherfrist Microsoft, Standort STACKIT – jetzt Fassung 1.7): Informationspflicht gegenüber Bestandskunden, Form, Frist, auch ohne Verschlechterung? | 1.1 Anlage 1/2, 1.4, 08a D |
 | J46 | Hetzner-AVV behandelt 26lab als Verantwortlichen, Flubber ist nicht Partei: reicht 2.1 § 17 als Nachweis der Kette, oder Zusatzvereinbarung Flubber ↔ 26lab, die Hetzner als Unterauftragsverarbeiter benennt? (ergänzt J41) | 2.1 § 17, 3.1 D, 08a A10 |
+| J47 | Hält der Rückfall des Nutzungsrechts bei Insolvenz (2.1 § 2 Abs. 4) nach § 119 InsO? Hinweis von 26lab in 2.2 | 2.1, 2.2, 2.3 | ☐ offen, bis Geld für Erstberatung da ist |
 
 
 ---
